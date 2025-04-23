@@ -27,7 +27,7 @@ This project was completed for academic credit and adheres to Georgia Tech’s h
 
 ## Demo Part A 
 
-![treasure hunt demo](example.gif)
+https://github.com/user-attachments/assets/94c5b3ff-22ca-47a0-b280-b6592743cedf
 
 ## Demo Part B 
 
