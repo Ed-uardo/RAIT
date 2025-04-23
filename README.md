@@ -27,7 +27,7 @@ This project was completed for academic credit and adheres to Georgia Tech’s h
 
 ## Demo Part A 
 
-https://github.com/user-attachments/assets/94c5b3ff-22ca-47a0-b280-b6592743cedf
+https://github.com/user-attachments/assets/ae9ab336-0552-49e0-baf3-c8675684047b
 
 ## Demo Part B 
 
