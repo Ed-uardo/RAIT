@@ -31,4 +31,4 @@ https://github.com/user-attachments/assets/ae9ab336-0552-49e0-baf3-c8675684047b
 
 ## Demo Part B 
 
-![treasure hunt demo](example.gif)
+https://github.com/user-attachments/assets/05e84e6f-5cae-466e-ad65-678be8014191
